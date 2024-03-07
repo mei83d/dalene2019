@@ -1,0 +1,23 @@
+{
+  "name": "dalene2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei83d/nafulamagdalene2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mei83d/nafulamagdalene2019/issues"
+  },
+  "homepage": "https://github.com/mei83d/nafulamagdalene2019#readme",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
